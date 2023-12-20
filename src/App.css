@@ -1,0 +1,47 @@
+.container {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 550px;
+  height: 200px;
+  background-color: rgb(57, 17, 95);
+  border-radius: 10px;
+
+}
+.heading{
+  color: white;
+}
+
+.container input {
+  border: none;
+  border-radius: 10px;
+  outline: none;
+}
+.container button{
+  border: none;
+  border-radius: 10px;
+  height: 30px;
+}
+.container2{
+  /* border: 2px solid black; */
+  display: flex;
+  border-radius: 10px;
+  justify-content: space-between;
+  background-color: white;
+  height: 30px;
+  width: 280px;
+}
+.label{
+  color:orange
+}
+.range{
+ /* margin-top:20px ; */
+
+}
+.container3{
+  margin-top: 20px;
+  
+}
+
+ 
